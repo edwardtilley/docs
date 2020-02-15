@@ -32,3 +32,15 @@ How to do stuff in programming, simple guide.
 ## Deployments 
 
 - [Flask Deploy on Apache](/how-to/flask-apache-centos-virtualenv-minimal-configuration/)
+
+# Deploying changes to Templates
+
+- No-one deploys templates to production without changes, so this section presents a community discussed updates for:
+-- Blueprint - adding pages and separating directories
+-- Chart libraries - amChart, dash plotly, chart.js, Chartist and others - 
+-- Data Integration - this library will document pandas dataframe interfaces to all charts. 
+This will make your pages come alive with real data from excel, csv, sql, rest and custom-api data sources
+-- Calendars - 
+-- Timelines - 
+-- Tasks
+-- Email
